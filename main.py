@@ -35,6 +35,7 @@ BLOCK_KEYWORDS = [
     "FOX", "Pluto", "Local", "NBC", "CBS", "ABC", "AXS", "Snowy", 
     "Reuters", "Mirror", "ET Now", "The Now", "Right Now", "News Now",
     "Chopper", "Wow", "UHD", "8K", "Career", "Comics", "Movies",
+    "CBTV",
     
     # 來自你的日誌分析 (大陸/澳門台)
     "浙江", "杭州", "西湖", "廣東", "珠江", "大灣區", # 排除 "杭州西湖明珠"
