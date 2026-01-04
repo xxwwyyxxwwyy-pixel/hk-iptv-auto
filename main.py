@@ -10,9 +10,26 @@ cc = OpenCC('s2t')
 
 # 1. 來源列表
 SOURCE_URLS = [
+    # 范明明 (IPv6 為主，但包含不少優質源)
     "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+    
+    # YueChan (綜合源，更新頻率高)
+    "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+    
+    # APTV (高品質聚合)
+    "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+    
+    # Yuanzl77 (老牌源)
     "https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
-    "https://raw.githubusercontent.com/live-television/m3u/master/Hong%20Kong.m3u"
+    
+    # iptv-org (香港分區，雖然很多有Geo-block，但值得一試)
+    "https://iptv-org.github.io/iptv/countries/hk.m3u",
+    
+    # Joevess (泛中文源)
+    "https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8",
+    
+    # YanG-1989 (彙整源)
+    "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
 ]
 
 # 2. 關鍵字過濾 (包含簡體與繁體，確保能抓到所有潛在頻道)
