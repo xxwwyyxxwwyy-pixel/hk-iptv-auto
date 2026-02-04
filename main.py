@@ -52,7 +52,7 @@ BLOCK_KEYWORDS = [
     "Chopper", "Wow", "UHD", "8K", "Career", "Comics", "Movies",
     "CBTV","Pearl","AccuWeather","Jadeed","Curiosity","Electric",
     "Warfare","Knowledge","MagellanTV","70s","80s","90s","Rock",
-    "Winnipeg","Edmonton","RightNow","Times","True",
+    "Winnipeg","Edmonton","RightNow","Times","True","Mindanow",
     
     # 來自你的日誌分析 (大陸/澳門台)
     "浙江", "杭州", "西湖", "廣東", "珠江", "大灣區", # 排除 "杭州西湖明珠"
